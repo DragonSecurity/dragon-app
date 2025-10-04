@@ -1,6 +1,6 @@
 module dragonapp
 
-go 1.21
+go 1.22.12
 
 replace github.com/dragonsecurity/dragon => ../dragon
 
